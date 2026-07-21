@@ -28,7 +28,7 @@ This repository contains solutions to four C programming modules completed as pa
 - Functions
 - Recursion
 
-## 📎 Technologies 
+## 📎 Technologie
 
 
 ## 📎 Author
