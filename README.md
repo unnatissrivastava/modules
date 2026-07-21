@@ -33,7 +33,6 @@ This repository contains solutions to four C programming modules completed as pa
 - C Programming Language
 - Visual Studio Code
 
-
 ## 📎 Author
 
 **Unnati Vardhan Srivastava**
