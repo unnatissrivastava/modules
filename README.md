@@ -31,7 +31,6 @@ This repository contains solutions to four C programming modules completed as pa
 ## 📎 Technologies Used
 
 
-
 ## 📎 Author
 
 **Unnati Vardhan Srivastava**
