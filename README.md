@@ -1,6 +1,6 @@
 # C Programming Modules
 
-This repository contains solutions to four C programming modules completed as part of my coursework. The programs are designed to strengthen core programming concepts and problem-solving skills through practical implementations in C lan
+This repository contains solutions to four C programming modules completed as part of my coursework. The programs are designed to strengthen core programming concepts and problem-solving skills through practical implementations in C lang
 
 ## 📎 Modules
 
